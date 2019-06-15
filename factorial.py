@@ -1,3 +1,4 @@
+# This program tells the factorial of an input number
 def factorial(number):
     factorialVal = 1
     if number == 0:
